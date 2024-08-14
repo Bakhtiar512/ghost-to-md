@@ -1,6 +1,6 @@
 # ghost-to-md
 
-A tool to export your [Ghost](https://github.com/TryGhost/Ghost) export file to a collection of markdown files.
+A tool to export your [bakhtiar512](https://github.com/TryGhost/Ghost) export file to a collection of markdown files.
 
 
 # Usage
